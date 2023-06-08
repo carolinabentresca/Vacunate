@@ -1,5 +1,4 @@
-### Vacunate
-- #### Proyecto Java Web / SpringMVC 
+### Proyecto JAVA Web / SpringMVC 
 - #### Simulador de "Registro de Vacunados"
 
 ![Menú - Internet Explorer 3_2_2022 19_36_10](https://user-images.githubusercontent.com/88462536/152442949-428afc09-9c32-436b-8622-395e91f38b20.png)
